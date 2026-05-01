@@ -1,0 +1,32 @@
+[
+  {
+    "url": "https://www.businesstoday.in/india/story/did-watermelon-kill-a-family-of-four-in-mumbai-police-probe-what-happened-after-1-am-527715-2026-04-28",
+    "canonical_url": "https://www.businesstoday.in/india/story/did-watermelon-kill-a-family-of-four-in-mumbai-police-probe-what-happened-after-1-am-527715-2026-04-28",
+    "headline": "Mumbai family of four dies hours after late-night watermelon; police probe contaminant",
+    "summary": "A family of four (ages 13 to 40) in Mumbai's Bhendi Bazaar died within roughly 24 hours of each other after a late-night watermelon. Sir JJ Hospital doctors say a stale watermelon alone is unlikely to cause four rapid deaths and suspect a contaminant or additive. Forensic samples sent for analysis.",
+    "source": "businesstoday.in",
+    "published_at": "2026-04-30T22:00:00+00:00",
+    "geo_hint": "Mumbai, India",
+    "negative_framing_score": 0.95
+  },
+  {
+    "url": "https://www.who.int/news/item/2026-04-30-h5n1-cattle-update",
+    "canonical_url": "https://www.who.int/news/item/2026-04-30-h5n1-cattle-update",
+    "headline": "WHO updates H5N1 risk assessment after new cattle-to-human transmission cases in three countries",
+    "summary": "WHO has revised its H5N1 risk assessment following confirmed cattle-to-human transmissions reported in the United States, Brazil, and Vietnam in the past two weeks. While public health risk remains assessed as low, the geographic spread is wider than previous quarters.",
+    "source": "who.int",
+    "published_at": "2026-04-30T11:15:00+00:00",
+    "geo_hint": "multi-country (US, Brazil, Vietnam)",
+    "negative_framing_score": 0.78
+  },
+  {
+    "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-2026-001234",
+    "canonical_url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-2026-001234",
+    "headline": "Lancet: phthalate exposure linked to 14% higher cardiovascular mortality in middle-aged adults",
+    "summary": "A new Lancet meta-analysis covering 7 cohorts and 380,000 participants finds urinary phthalate metabolites associated with a 14% higher cardiovascular mortality risk in adults aged 40-65. Largest signal in DEHP-exposed populations. Authors call for stricter regulatory limits in food packaging.",
+    "source": "thelancet.com",
+    "published_at": "2026-04-30T09:00:00+00:00",
+    "geo_hint": "global meta-analysis",
+    "negative_framing_score": 0.88
+  }
+]

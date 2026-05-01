@@ -1,0 +1,38 @@
+{
+  "amarolabs-news": {
+    "skill.md": "7bf64089929887e7a83d1730bcfc90a2a17681b01e4db3bd635fc8393ecdd2d4"
+  },
+  "caption-overlay": {
+    "SKILL.md": "4a3d7297d905185297b3a1b99e0bff10074fa872705727183623508b7b18eb0d"
+  },
+  "carousel-style": {
+    "SKILL.md": "e9079ed1b40dfb87b1ca8ae9322aa4bad66c72330dd414857290bdb75a9198c0"
+  },
+  "design-preferences": {
+    "SKILL.md": "e5c896e462eac0ce353af557f0ecb98905e021a54e2d14ce26ee91461ddc0af6"
+  },
+  "hook-square-split": {
+    "SKILL.md": "03c96969a4a40d0599357128c03652a43d10e881e0960f8219f9fdd1006fc906"
+  },
+  "kling-motion-control": {
+    "SKILL.md": "91d89e4b98c33d74df9c0fa79cb8979f9f0b792ac06263fab31ea5c97d7db845"
+  },
+  "kling-multi-shot": {
+    "SKILL.md": "37ab2893e77d0e45d15ec7f92b1204cbdf46f0181d381aadc1375740a5908fb7"
+  },
+  "kling-prompt-master": {
+    "SKILL.md": "c6ea591196e41842b4d1dfc8425bbd05eaac516f601722d0240f15ed80e2e762"
+  },
+  "neuro-scriptwriter": {
+    "SKILL.md": "577e374560e1fe835a0c53716b9b9c73cce7d7b5b8dab72a8c43ac2a4cf7d2db"
+  },
+  "remotion-creator": {
+    "SKILL.md": "e93519aaea8aa9150b646284fa283de7f05e2fee064b9e6ae59340b26fbe7c98"
+  },
+  "transcript-router": {
+    "SKILL.md": "76efa0a79a1e41edf6dd64fc6d500fd236cacfe79b7b0b10e6c9dd48a5663a7e"
+  },
+  "video-frames": {
+    "SKILL.md": "bafb0cc9d336a4864da9514d3553590af055d775bb13b20d60bc249890906b49"
+  }
+}

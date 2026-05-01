@@ -1,0 +1,32 @@
+schedule:
+  cron: "0 7 * * *"
+  timezone: "Asia/Kolkata"
+
+collection:
+  window_hours: 48
+  limit: 10
+
+filter:
+  threshold: 0.55
+  source_authority_weight: 0.4
+  impact_weight: 0.4
+  novelty_weight: 0.2
+
+triage:
+  top_n: 1
+
+rendering:
+  image_model: "gpt-image-2"
+  fallback_model: "gpt-image-1"
+  size: "1080x1350"
+  retries: 3
+
+output:
+  base_dir: "./output"
+
+state:
+  db_path: "./.state/carousel.db"
+
+logging:
+  level: "INFO"
+  file: "./.state/logs/carousel.log"
